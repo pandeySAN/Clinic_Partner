@@ -135,3 +135,5 @@ clinic_backend/
 
 - Admin panel: http://localhost:8000/admin/
 - API root: http://localhost:8000/api/
+
+Made by Chroma-labs Technologies Pvt. Ltd.
